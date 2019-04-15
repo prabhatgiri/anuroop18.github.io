@@ -129,7 +129,6 @@ a:hover, a:active, a:focus {
 
 .parallax-section {
   background-attachment: fixed !important;
-  background-size: cover !important;
   overflow: hidden;
 }
 
